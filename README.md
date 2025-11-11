@@ -59,7 +59,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/hotel_clustering_analysis.ipynb
 ```
 
-## 🔗 [View Project on GitHub Pages](https://jmalfaro2019.github.io/hotel-clustering-analysis/)
+## 🔗 [View Project on GitHub Pages](https://jmalfaro2019.github.io/hotels-clustering/)
 
 📄  **Full Report**
 📋  [Download PDF Report](docs/hotel_clustering_report.pdf)
